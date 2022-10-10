@@ -1,4 +1,4 @@
-## Run the application
+## Run the application AIMouse.exe
 ## Wait for a while after the console opens
 ## Instructions to use the application
 > The cursor moves if both index and thumb fingers are open.
